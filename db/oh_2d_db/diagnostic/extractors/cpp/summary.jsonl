@@ -1,0 +1,32 @@
+{
+    "attributes": {
+        "cache-hits": 0,
+        "cache-misses": 14635,
+        "compilers": [
+            {
+                "program": "clang",
+                "version": "OHOS (dev) clang version 15.0.4 (llvm-project 933e6dceef3c25b5d870b0598deef04dd51f10b3)"
+            },
+            {
+                "program": "clang-cc1",
+                "version": "OHOS (dev) clang version 15.0.4 (llvm-project 933e6dceef3c25b5d870b0598deef04dd51f10b3)"
+            }
+        ],
+        "extractor-failures": 3236,
+        "extractor-successes": 11399,
+        "trap-caching": "disabled"
+    },
+    "markdownMessage": "Internal telemetry for the C++ extractor.\n\nNo action needed.",
+    "severity": "note",
+    "source": {
+        "extractorName": "cpp",
+        "id": "cpp/extractor/summary",
+        "name": "C++ extractor telemetry"
+    },
+    "timestamp": "2025-10-13T15:59:00.951110+0000",
+    "visibility": {
+        "cliSummaryTable": false,
+        "statusPage": false,
+        "telemetry": true
+    }
+}
